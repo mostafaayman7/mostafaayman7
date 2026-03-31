@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🛠️ Tech Stack
 
-<!--
-**mostafaayman7/mostafaayman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Mobile Development
+- Flutter
+- Dart
 
-Here are some ideas to get you started:
+### 🧠 Architecture
+- Clean Architecture
+- MVVM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔄 State Management
+- Bloc / Cubit
+- Provider
+
+### 🔥 Backend Integration
+- REST APIs
+- Firebase
+- Supabase
+
+### 🧰 Tools
+- Git & GitHub
+- Postman
+- VS Code / Android Studio
